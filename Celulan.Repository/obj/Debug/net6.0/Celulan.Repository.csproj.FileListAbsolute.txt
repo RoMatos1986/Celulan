@@ -1,0 +1,12 @@
+C:\Users\Rosangela\Documents\C#\CelulaNovo\Celulan.Repository\obj\Debug\net6.0\Celulan.Repository.csproj.AssemblyReference.cache
+C:\Users\Rosangela\Documents\C#\CelulaNovo\Celulan.Repository\obj\Debug\net6.0\Celulan.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosangela\Documents\C#\CelulaNovo\Celulan.Repository\obj\Debug\net6.0\Celulan.Repository.AssemblyInfoInputs.cache
+C:\Users\Rosangela\Documents\C#\CelulaNovo\Celulan.Repository\obj\Debug\net6.0\Celulan.Repository.AssemblyInfo.cs
+C:\Users\Rosangela\Documents\C#\CelulaNovo\Celulan.Repository\obj\Debug\net6.0\Celulan.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Rosangela\Documents\C#\CelulaNovo\Celulan.Repository\bin\Debug\net6.0\Celulan.Repository.deps.json
+C:\Users\Rosangela\Documents\C#\CelulaNovo\Celulan.Repository\bin\Debug\net6.0\Celulan.Repository.dll
+C:\Users\Rosangela\Documents\C#\CelulaNovo\Celulan.Repository\bin\Debug\net6.0\Celulan.Repository.pdb
+C:\Users\Rosangela\Documents\C#\CelulaNovo\Celulan.Repository\obj\Debug\net6.0\Celulan.Repository.dll
+C:\Users\Rosangela\Documents\C#\CelulaNovo\Celulan.Repository\obj\Debug\net6.0\refint\Celulan.Repository.dll
+C:\Users\Rosangela\Documents\C#\CelulaNovo\Celulan.Repository\obj\Debug\net6.0\Celulan.Repository.pdb
+C:\Users\Rosangela\Documents\C#\CelulaNovo\Celulan.Repository\obj\Debug\net6.0\ref\Celulan.Repository.dll
